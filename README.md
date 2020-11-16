@@ -5,3 +5,6 @@
 ***HW1.ipynb/HW1.py***: the homework1 codes from HackerRank by Jupyter
 
 ***Submissions _ HackerRank.pdf***: Screenshots from HackerRank
+
+## ADM-Homework2_Fabiano_Evangelista
+***HW2_Fabiano_Evangelista.ipynb/HW2_Fabiano_Evangelista.py***: the homework2 codes
