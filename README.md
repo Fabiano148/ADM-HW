@@ -8,4 +8,4 @@
 
 ## ADM-Homework2_Fabiano_Evangelista
 ***HW2_Fabiano_Evangelista.ipynb/HW2_Fabiano_Evangelista.py***: the homework2 codes
-***Link notebook: https://nbviewer.jupyter.org/github/Fabiano148/ADM-HW/blob/main/HW2_Fabiano_Evangelista.ipynb
+https://nbviewer.jupyter.org/github/Fabiano148/ADM-HW/blob/main/HW2_Fabiano_Evangelista.ipynb
